@@ -13,7 +13,7 @@ app.get("/api", (req: express.Request, res: express.Response) => {
     res.json([
       {
         id:1,
-        name:"りんご",
+        name:"りんごです",
         price:200,
         image:"https://t3.ftcdn.net/jpg/01/44/72/68/240_F_144726846_a6aI8wZXCKV7lOz0bsg3Enax7PGy1KSR.jpg",
       },
